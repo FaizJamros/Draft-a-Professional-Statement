@@ -11,7 +11,7 @@ A statement that explains my strengths, values, and motivation.
 <h2>My Values</h2>
 <ul>
   <li> I am someone with high integrity, ensuring the responsibility that have given to me is not betrayed. I can improve company's business processes by protecting <b>PII</b> and <b>SPII</b> such as <b>HPI</b> by following the playbooks on keeping customers data's confidentiality and integrity intact.</li>
-  <li> I am a person that uphold the rule of law. I will make sure that any steps of safeguarding PII and SPII data need to conform to the laws such as <b>GDPR</b>, <b>PCI DSS</b> and the <b>Malaysian Data Protection Act</b> at any time and be extremely careful so that no mistakes that will be costly to the company can occur.</li>
+  <li> I am a person that uphold the rule of law. I will make sure that any steps of safeguarding PII and SPII data need to conform to the laws such as General Data Protection Act(<b>GDPR</b>), Payment Card Industry Data Security Standard(<b>PCI DSS</b>) and the 2010 Malaysian Data Protection Act(<b>PDPA</b>) at any time and be extremely careful so that no mistakes that will be costly to the company can occur.</li>
 </ul>
 
 <h2>My Motivation</h2>
